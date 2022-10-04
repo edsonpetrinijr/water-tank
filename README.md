@@ -12,8 +12,14 @@ Com a ideia em mente, começamos as estruturar o projeto
 
 O primeiro testes que realizamos foi feito em um pequeno pote, para termos uma noção inicial dos cálculos que deveriam ser feitos para analisar o volume de água na caixa d'água. Esse primeiro teste foi bem-sucedido, conseguimos as equações que deveríamos utilizar:
 
-- Para calcular o volume do recipiente: $V=2 \pi * r * h$
+- Para calcular o volume do recipiente: $V=\pi * r ^ 2 * h$
 
-- Para calcular o volume de água: $V=2 \pi * r * (d - h)$
+- Para calcular o volume de água: $V=\pi * r ^ 2 * (d - h)$
 
 - Para a porcentagem de água: $P={100*(d-h) \over h}$
+
+## Componentes
+| Quantidade | Nome do Componente | Função                                                                     |
+|------------|--------------------|----------------------------------------------------------------------------|
+| 1          | NodeMCU ESP8266    | Placa de desenvolvimento de soluções para IoT - Permite a comunicação WiFi |
+| 1          | JSN-SR04T          | Sensor ultrassônico a prova d'água                                         |
