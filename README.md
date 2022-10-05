@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Projeto Caixa d'água Inteligente</h1>
-<p align="center">Monitorador do volume da caixa d'agua da escola SESI 165 Centro Educacional</p>
+<p align="center">Monitorador do volume da caixa d'água da escola SESI 165 Centro Educacional</p>
 
 ## Introdução
 No SESI 165, possuímos uma enorme caixa d'água, que embora não apresente problema aos alunos, traz diversas complicações aos funcionários.
@@ -28,6 +28,5 @@ O primeiro testes que realizamos foi feito em um pequeno pote, para termos uma n
 | 1          | JSN-SR04T          | Sensor ultrassônico a prova d'água                                         |
 
 ## Autor
-
 | [<img src="https://avatars.githubusercontent.com/u/78496054?v=4" width=115><br><sub>@edsonpetrinijr</sub>](https://github.com/edsonpetrinijr) |
 | :---: |
